@@ -24,7 +24,7 @@ The **Machine Learning Preprocessing CLI** is a command-line interface tool desi
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Machine-Learning-Preprocessing-CLI.git
+   git clone https://github.com/AQIBDIWAN/Machine-Learning-Preprocessing-CLI
    cd Machine-Learning-Preprocessing-CLI
    ```
 2. Install dependencies:
